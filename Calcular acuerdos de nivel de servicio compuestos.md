@@ -1,8 +1,3 @@
----
-wts:
-    title: 'Cálcular el Acuerdo de nivel de servicio compuesto'
-    module: 'Módulo 06: Descripción de los acuerdos de nivel de servicio y Azure Cost Management'
----
 # Calcular acuerdos de nivel de servicio compuestos 
 
 En este tutorial determinaremos el Acuerdo de nivel de servicio disponible de los servicios de Azure y luego calcularemos la disponibilidad basada en el Acuerdo compuesto de la aplicación esperada.
