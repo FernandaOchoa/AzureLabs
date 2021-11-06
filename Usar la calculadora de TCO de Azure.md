@@ -83,6 +83,6 @@ En esta tarea revisaremos las recomendaciones de ahorro de costes y descargaremo
 
 3. Para guardar o imprimir una copia en PDF del informe, haga clic en **Descargar**.
 
-    ![Captura de pantalla del panel de informes de la calculadora de TCO en Azure. Los campos de entrada resaltados y completados indican cómo establecer el período de la calculadora de TCO en tres años y la región en el Norte de Europa. Un gráfico muestra el coste de la infraestructura local y las cargas de trabajo compensadas frente al coste reducido de usar Azure.](../images/2001.png)
+    ![Captura de pantalla del panel de informes de la calculadora de TCO en Azure. Los campos de entrada resaltados y completados indican cómo establecer el período de la calculadora de TCO en tres años y la región en el Norte de Europa. Un gráfico muestra el coste de la infraestructura local y las cargas de trabajo compensadas frente al coste reducido de usar Azure.](./images/2001.png)
 
 ¡Enhorabuena! Ha utilizado la Calculadora de TCO para generar un informe de comparación de costes para un entorno local.
