@@ -1,8 +1,3 @@
----
-wts:
-    title: 'Usar la calculadora de precios de Azure'
-    module: 'Módulo 06: Descripción de los acuerdos de nivel de servicio y Azure Cost Management'
----
 # Usar la calculadora de precios
 
 En este tutorial, utilizaremos la Calculadora de precios de Azure para generar una estimación de costes para una máquina virtual Azure y recursos de red relacionados.
