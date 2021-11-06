@@ -1,8 +1,3 @@
----
-wts:
-    title: 'Usar la calculadora de TCO de Azure '
-    module: 'Módulo 06: Descripción de los acuerdos de nivel de servicio y Azure Cost Management'
----
 # Usar la calculadora de TCO de Azure
 
 
